@@ -1,2 +1,2 @@
 # advocate-v1
-This site contains advocate case related data and case management system.
+This site contains simple advocate case-related data and a case management system.
